@@ -15,7 +15,7 @@ Cada proyecto está organizado en carpetas y cuenta con su respectiva documentac
 
 ---
 
-                                                                                            # 🚀 Proyectos Disponibles  
+#                                                                                          🚀 Proyectos Disponibles  
 
 # 🔎 PROYECTO A*  
 📌 *Juego en un tablero 10x10 donde se busca la ruta más corta entre dos puntos usando el algoritmo A\**.*  
