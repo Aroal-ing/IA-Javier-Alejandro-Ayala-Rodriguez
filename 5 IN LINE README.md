@@ -1,4 +1,5 @@
 # Cuestionario: Red Neuronal para 5 en Línea  
+JAVIER ALEJANDRO AYALA RODRIGUEZ - 22120630  
 
 Este ejercicio consiste en diseñar una red neuronal capaz de jugar al **5 en línea sin gravedad** en un tablero de **20x20**.  
 
