@@ -27,7 +27,7 @@ Cada proyecto está organizado en carpetas y cuenta con su respectiva documentac
 
 ## 🔎 PROYECTO OLLAMA  
 📌 *Crear Embeddings y Fine-Tuning para temas eticos.  
-📂 A*  
+📂 OLLAMA  
     📜 `OLLAMA README` → Explicación detallada del código.  
     💻 `OLLAMA CODE`   → Implementación en Python.  
 
