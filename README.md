@@ -25,6 +25,14 @@ Cada proyecto está organizado en carpetas y cuenta con su respectiva documentac
 
 ---
 
+## 🔎 PROYECTO OLLAMA  
+📌 *Crear Embeddings y Fine-Tuning para temas eticos.  
+📂 A*  
+    📜 `OLLAMA README` → Explicación detallada del código.  
+    💻 `OLLAMA CODE`   → Implementación en Python.  
+
+---
+
 ## 🧠 1 NEURON GAME  
 📌 *Juego de Machine Learning donde una única neurona debe aprender a esquivar balas.*  
 📂 1 NEURON GAME  
