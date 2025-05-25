@@ -55,7 +55,8 @@ para las respuestas las cuales se agregaran al PDF.
 ![image](https://github.com/user-attachments/assets/57dcebe7-f33c-4fb9-a29a-6954e22e782e)
 
 **Finalmente vamos a crear el video usando la libreria ffmpeg moviepy PyMuPDF**
-![image](https://github.com/user-attachments/assets/a07aabec-bd1d-4dcc-b273-5ec9e741e2e8)
+![image](https://github.com/user-attachments/assets/3e82b193-ccb4-4c38-879f-d9bbd8c132a1)
+
 ![image](https://github.com/user-attachments/assets/8e0289fa-7210-4d5a-9871-b2e693889317)
 
 
