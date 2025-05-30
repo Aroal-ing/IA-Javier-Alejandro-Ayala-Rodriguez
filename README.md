@@ -30,15 +30,16 @@ Cada proyecto está organizado en carpetas y cuenta con su respectiva documentac
 📂 OLLAMA  
     📜 `OLLAMA README` → Explicación detallada del código. 
     📜 `OLLAMA RAR` →  Carpeta con todo el contenido.
-    💻 `OLLAMA CODE`   → Implementación en Python.  
+    💻 `OLLAMA CODE`   → Implementación en Python. 
+    💻 `OLLAMA VIDEO`   → Explicacion del Codigo. 
 
 ---
 ## 🔎 PROYECTO JUEGO PHASER  
 📌 *Editar el cascaron del juego con el objetivo de la jugabilidad automatica mediante 3 modelos diferentes.  
 📂 PHASER  
-    📜 `PHASER README` → Explicación detallada del código.  
-    📜 `PHASER RAR` → Carpeta con todo el contenido. 
-    💻 `PHASER CODE`   → Implementación en Python.  
+    📜 `PYGAME README` → Explicación detallada del código.  
+    📜 `PYGAME RAR` → Carpeta con todo el contenido. 
+    💻 `PYGAME CODE`   → Implementación en Python.  
 
 ---
 
