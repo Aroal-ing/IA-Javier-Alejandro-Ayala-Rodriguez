@@ -28,8 +28,17 @@ Cada proyecto está organizado en carpetas y cuenta con su respectiva documentac
 ## 🔎 PROYECTO OLLAMA  
 📌 *Crear Embeddings y Fine-Tuning para temas eticos.  
 📂 OLLAMA  
-    📜 `OLLAMA README` → Explicación detallada del código.  
+    📜 `OLLAMA README` → Explicación detallada del código. 
+    📜 `OLLAMA RAR` →  Carpeta con todo el contenido.
     💻 `OLLAMA CODE`   → Implementación en Python.  
+
+---
+## 🔎 PROYECTO JUEGO PHASER  
+📌 *Editar el cascaron del juego con el objetivo de la jugabilidad automatica mediante 3 modelos diferentes.  
+📂 PHASER  
+    📜 `PHASER README` → Explicación detallada del código.  
+    📜 `PHASER RAR` → Carpeta con todo el contenido. 
+    💻 `PHASER CODE`   → Implementación en Python.  
 
 ---
 
